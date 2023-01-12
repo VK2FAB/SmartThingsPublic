@@ -22,11 +22,11 @@ metadata {
         capability "Switch"
         capability "Health Check"
  
-        fingerprint profileId: "C05E", inClusters: "0000,0003,0004,0005,0006", outClusters: "0003, 0006, 0008, 0019, 0406", manufacturer: "FeiBit", model: "FNB56-ZSW02LX2.0", deviceJoinName: "Nue Zigbee 2 Gang Switch"
-        fingerprint profileId: "C05E", inClusters: "0000,0003,0004,0005,0006", outClusters: "0003, 0006, 0008, 0019, 0406", manufacturer: "FeiBit", model: "FNB56-SKT1DHG1.4", deviceJoinName: "Nue Zigbee Double GPO"
-        fingerprint profileId: "0104", inClusters: "0000,0003,0004,0005,0006,0B05,0702", outClusters: "000A,0019",  manufacturer: "FeiBit Inc co.", model: "FB56+ZSW1IKJ1.7", deviceJoinName: "Nue Double GPO"
+        ////////fingerprint profileId: "C05E", inClusters: "0000,0003,0004,0005,0006", outClusters: "0003, 0006, 0008, 0019, 0406", manufacturer: "FeiBit", model: "FNB56-ZSW02LX2.0", deviceJoinName: "Nue Zigbee 2 Gang Switch"
+        ////////fingerprint profileId: "C05E", inClusters: "0000,0003,0004,0005,0006", outClusters: "0003, 0006, 0008, 0019, 0406", manufacturer: "FeiBit", model: "FNB56-SKT1DHG1.4", deviceJoinName: "Nue Zigbee Double GPO"
+        ////////fingerprint profileId: "0104", inClusters: "0000,0003,0004,0005,0006,0B05,0702", outClusters: "000A,0019",  manufacturer: "FeiBit Inc co.", model: "FB56+ZSW1IKJ1.7", deviceJoinName: "Nue Double GPO"
         //fingerprint profileId: "C05E", inClusters: "0000,0003,0004,0005,0006", outClusters: "0003, 0006, 0008, 0019, 0406", manufacturer: "3A Smart Home DE", model: "LXN-2S27LX1.0", deviceJoinName: "Nue Zigbee 2 Gang Switch"
-        fingerprint profileId: "C05E", inClusters: "0000,0003,0004,0005,0006,008,1000", outClusters: "0019", manufacturer: "3A Smart Home DE", model: "LXN-2S27LX1.0", deviceJoinName: "Nue Zigbee 2 Gang Switch"
+        ////////fingerprint profileId: "C05E", inClusters: "0000,0003,0004,0005,0006,008,1000", outClusters: "0019", manufacturer: "3A Smart Home DE", model: "LXN-2S27LX1.0", deviceJoinName: "Nue Zigbee 2 Gang Switch"
                 
         attribute "lastCheckin", "string"
         attribute "switch", "string"
