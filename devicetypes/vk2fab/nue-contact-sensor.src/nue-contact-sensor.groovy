@@ -30,7 +30,7 @@ metadata {
 
 		// Added 2020.09.02 - VK2FAB for Nue/Tuya Sensor
 		//fingerprint profileId: "0104", inClusters: "0000,0001,0003,0500", outClusters: "0003", deviceJoinName: "Tuya Door/Window Sensor"
-		fingerprint profileId: "0104", inClusters: "0000,0001,0003,0500", outClusters: "0003", manufacturer: "TUYATEC-xrvzm3yI", model: "RH3001", deviceJoinName: "Tuya Door/Window Sensor"
+		////////fingerprint profileId: "0104", inClusters: "0000,0001,0003,0500", outClusters: "0003", manufacturer: "TUYATEC-xrvzm3yI", model: "RH3001", deviceJoinName: "Tuya Door/Window Sensor"
 
 		// From 3A Published Device Handlers
     	fingerprint inClusters: "0000,0001,0003,0020,0500,0402,0502", outClusters: "", manufacturer: "Feibit,co.ltd", model: "FB56-DOS06HM1.1", deviceJoinName: "Nue Door/Window Sensor"
