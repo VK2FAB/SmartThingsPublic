@@ -25,7 +25,7 @@ metadata {
 		command 'doorOpen'
         command 'doorClosed'
         
-        fingerprint profileId: "0104", inClusters: "0000, 0003, 0004, 0005, 0102", outClusters: "000A", manufacturer: "Feibit Co.Ltd", model: "FB56+CUR17SB1.4", deviceJoinName: "Garage Door Controller"
+////////        fingerprint profileId: "0104", inClusters: "0000, 0003, 0004, 0005, 0102", outClusters: "000A", manufacturer: "Feibit Co.Ltd", model: "FB56+CUR17SB1.4", deviceJoinName: "Garage Door Controller"
         
 	}
 
